@@ -1,8 +1,10 @@
-# Repository Name
+# Exercism
+
+A repository to store Exercism exercises.
 
 ## Table of Contents
 
-- [Repository Name](#repository-name)
+- [Exercism](#exercism)
   - [Table of Contents](#table-of-contents)
   - [Contributing](#contributing)
 
