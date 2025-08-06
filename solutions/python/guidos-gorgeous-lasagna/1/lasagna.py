@@ -11,7 +11,6 @@ of a module and its functions and/or classes.
 EXPECTED_BAKE_TIME = 40
 PREPARATION_TIME = 2
 
-#TODO: Remove 'pass' and complete the 'bake_time_remaining()' function below.
 def bake_time_remaining(elapsed_bake_time:int) -> int:
     """Calculate the bake time remaining.
 
