@@ -68,6 +68,7 @@ repos:
         name: Pinact Check
         language: golang
         entry: pinact
+        language_version: go1.27.3
         additional_dependencies:
           - github.com/suzuki-shunsuke/pinact/v5/cmd/pinact@v5.0.1
         args: ["run", "--verify", "--check"]
